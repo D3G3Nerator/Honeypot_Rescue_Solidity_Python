@@ -1,0 +1,10 @@
+{
+    "address":"",
+    "SecretKey":"",
+
+    "Provider": "https://bsc-dataseed.binance.org/",
+    "GAS_GWEI": 7,
+
+    "rescueContract": ""
+
+}
