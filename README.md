@@ -38,7 +38,7 @@ git clone https://github.com/Trading-Tiger/Honeypot_Rescue_Solidity_Python
  - The easiest way is https://remix.ethereum.org/.
  - Upload the HoneypotRescue.sol to REMIX, connect to Metamask and select Solidity 6.6.
  - ATTENTION TO THE INITHASH & FEES in LINE 164/180/190 of the HoneypotRescue.sol and adjust them to your selected swap. Currently this is set to PancakeSwap.(You can find it in your block explorer in the contract code of the according router.)
- - Compile the contract, fill in the parameters, FACTORY & WRAPPED ADDRESS.
+ - Compile the contract, fill in the parameter, FACTORY.
 ---
  - Copy the Created Contract addresse and insert it in the settings.json between the "" after "rescueContract":!
 
